@@ -1,0 +1,1 @@
+# amazon-linux-2023-stig-ready-baseline
